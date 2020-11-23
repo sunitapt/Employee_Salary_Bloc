@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![ScreenShot](https://github.com/sunitapt/Employee_Salary_Bloc/blob/main/employeeblocimage.jpg)
-![ScreenShot](https://github.com/sunitapt/Employee_Salary_Bloc/blob/main/employeeblocimage.jpg)
+![ScreenShot](https://github.com/sunitapt/Employee_Salary_Bloc/blob/main/Screenshot%20from%202020-11-23%2019-04-55.png)
